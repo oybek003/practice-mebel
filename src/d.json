@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWmUGXOtG-VLZhKEDEWEN285cx4Gi3OT9_Zv8IYnfqMTUnBRlPC-Y-bt6elRAvbUMfX1g&usqp=CAU",
+    "title": "The Dandy Chair",
+    "price": 250,
+    "category": "chair"
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGQSrJV-8a6grnNa-tt5OB44mcod__JguRQ&s",
+    "title": "Rustic Vase Set",
+    "price": 155,
+    "category": "vase"
+  },
+  {
+    "id": 3,
+    "image": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-bibury-vase-realistic-silk-vases-buy-online-from-the-faux-flower-company-abp1513-929005789.jpg?v=1745952913&width=1776",
+    "title": "The Silky Vase",
+    "price": 125,
+    "category": "vase"
+  },
+  {
+    "id": 4,
+    "image": "https://lucyslamps.com/cdn/shop/files/candle_lamps.jpg?v=1747691959&width=1445",
+    "title": "The Lucy Lamp",
+    "price": 399,
+    "category": "lamp"
+  },
+  {
+    "id": 5,
+    "image": "https://img.freepik.com/free-photo/chic-mid-century-modern-luxury-aesthetics-living-room-with-gray-velvet-couch-blue-rug_53876-128133.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Modern Sofa",
+    "price": 799,
+    "category": "sofa"
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjelcyHf3repA40iftgsj7ySEvdJ0-yFsEQ&s",
+    "title": "Wooden Coffee Table",
+    "price": 299,
+    "category": "table"
+  },
+  {
+    "id": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqct1wF0ZBDe_N8rIC5BmCrZG0QtIKPKlOg&s",
+    "title": "Velvet Armchair",
+    "price": 349,
+    "category": "chair"
+  },
+  {
+    "id": 8,
+    "image": "https://img.archiexpo.com/images_ae/photo-mg/147128-16133867.jpg",
+    "title": "Scandinavian Sofa",
+    "price": 950,
+    "category": "sofa"
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Gl1tzxWl2tyZs2WYoF-KzAI8uEKDiPsYHg&s",
+    "title": "Minimalist Lamp",
+    "price": 180,
+    "category": "lamp"
+  },
+  {
+    "id": 10,
+    "image": "https://m.media-amazon.com/images/I/91CfNRxAMRL.jpg",
+    "title": "Round Wooden Table",
+    "price": 420,
+    "category": "table"
+  },
+  {
+    "id": 11,
+    "image": "https://m.media-amazon.com/images/I/61KvH-iybDL._UF894,1000_QL80_.jpg",
+    "title": "Classic Vase",
+    "price": 99,
+    "category": "vase"
+  },
+  {
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZT_KGpm06uTijW1ZkZkh8dCB-YckmnxDRDA&s",
+    "title": "Leather Recliner Chair",
+    "price": 560,
+    "category": "chair"
+  }
+]
