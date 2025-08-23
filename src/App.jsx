@@ -8,8 +8,6 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Section5Oybek from './components/Section5Oybek'
 import FooterOybek from './components/FooterOybek'
-import card from './components/'
-
 
 const App = () => {
   return (
