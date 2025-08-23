@@ -1,8 +1,8 @@
 import { useContext, useState } from "react";
-import { CounterProvider, CounterContext } from "../practice-mebel/src/context/CounterContext";
-import Card from '../practice-mebel/src/components/CardAbdurashid';
-import Card1 from '../practice-mebel/src/components/Card1Abdurashid';
-import Card2 from './components/Card2Abdurashid';
+import { CounterProvider, CounterContext } from "../context/CounterContext";
+import Card from '../components/CardAbdurashid';
+import Card1 from '../components/Card1Abdurashid';
+import Card2 from '../components/Card2Abdurashid';
 // import Card3 from '../pages/Card3Abdurashid';
 import img from "./assets/1.png";
 import { Link } from "react-router-dom" 
