@@ -8,7 +8,10 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Section5Oybek from './components/Section5Oybek'
 import FooterOybek from './components/FooterOybek'
-
+import Card1 from './components/Card1Abdurashid'
+import Card2 from './components/Card2Abdurashid'
+import Card from './components/CardAbdurashid'
+import Card3Abdurashid from './pages/Card3Abdurashid'
 const App = () => {
   return (
     <div>
@@ -21,6 +24,11 @@ const App = () => {
         <Section4Oybek />
         <Section5Oybek />
         <FooterOybek />
+
+        <Card1 />
+        <Card2 />
+        <Card />
+        <Card3Abdurashid />
       </div>
     </div>
   )
