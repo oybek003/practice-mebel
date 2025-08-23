@@ -8,6 +8,9 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Section5Oybek from './components/Section5Oybek'
 import FooterOybek from './components/FooterOybek'
+import ProductListing from './components/ProductListing'
+
+import Cardd from './components/Cardd'
 import Card1 from './components/Card1Abdurashid'
 import Card2 from './components/Card2Abdurashid'
 import Card from './components/CardAbdurashid'
@@ -24,7 +27,9 @@ const App = () => {
         <Section4Oybek />
         <Section5Oybek />
         <FooterOybek />
+        <ProductListing />
 
+        <Cardd />
         <Card1 />
         <Card2 />
         <Card />
