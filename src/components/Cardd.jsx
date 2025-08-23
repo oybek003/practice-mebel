@@ -4,7 +4,7 @@ import Card from '../components/CardAbdurashid';
 import Card1 from '../components/Card1Abdurashid';
 import Card2 from '../components/Card2Abdurashid';
 // import Card3 from '../pages/Card3Abdurashid';
-import img from "./assets/1.png";
+import img from "../assets/1.png";
 import { Link } from "react-router-dom" 
 import { IoMdSearch } from "react-icons/io";
 import { MdOutlineLocalGroceryStore } from "react-icons/md";

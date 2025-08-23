@@ -4,6 +4,7 @@ import { RiCaravanFill } from "react-icons/ri";
 import { FcApproval } from "react-icons/fc";
 import { CiCreditCard1 } from "react-icons/ci";
 import { PiPlantThin } from "react-icons/pi";
+import { Link } from "react-router-dom";
 
 const SectionOybek = () => {
   return (
@@ -15,9 +16,10 @@ const SectionOybek = () => {
           <h1 className="text-3xl sm:text-4xl font-semibold leading-snug sm:text-center">
             The furniture brand for the <br /> future, with timeless designs
           </h1>
-          <button className="px-6 py-3 mt-8 bg-white/20 hover:border border-white">
-            View collection
-          </button>
+          <Link to="/productListing " className="mt-6 inline-block text-lg underline">
+                        View collection
+          </Link>
+          
           <p className="mt-12 text-lg">
             A new era in eco friendly furniture with Avelon, the French luxury
             retail brand with nice fonts, tasteful colors and a beautiful way to
