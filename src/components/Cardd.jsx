@@ -3,7 +3,7 @@ import { CounterProvider, CounterContext } from "../practice-mebel/src/context/C
 import Card from '../practice-mebel/src/components/CardAbdurashid';
 import Card1 from '../practice-mebel/src/components/Card1Abdurashid';
 import Card2 from './components/Card2Abdurashid';
-import Card3 from '../practice-mebel/src/pages/Card3Abdurashid';
+// import Card3 from '../pages/Card3Abdurashid';
 import img from "./assets/1.png";
 import { Link } from "react-router-dom" 
 import { IoMdSearch } from "react-icons/io";
