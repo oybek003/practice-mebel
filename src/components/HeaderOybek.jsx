@@ -3,6 +3,7 @@ import { IoMdSearch } from "react-icons/io";
 import { MdOutlineLocalGroceryStore } from "react-icons/md";
 import { CgProfile } from "react-icons/cg";
 import { HiMenu, HiX } from "react-icons/hi";
+import { Link } from "react-router-dom";
 
 const HeaderOybek = () => {
   const [open, setOpen] = useState(false);
@@ -17,7 +18,10 @@ const HeaderOybek = () => {
 
         {/* Desktop icons */}
         <div className="hidden md:flex items-center gap-6 text-2xl">
-          <MdOutlineLocalGroceryStore className="cursor-pointer" />
+          <Link to="/card3">
+            <MdOutlineLocalGroceryStore className="cursor-pointer" />
+          </Link>
+
           <CgProfile className="cursor-pointer" />
         </div>
 

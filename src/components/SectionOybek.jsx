@@ -16,9 +16,10 @@ const SectionOybek = () => {
           <h1 className="text-3xl sm:text-4xl font-semibold leading-snug sm:text-center">
             The furniture brand for the <br /> future, with timeless designs
           </h1>
-          <Link to="/productListing " className="mt-6 inline-block text-lg underline">
-                        View collection
-          </Link>
+      <Link to="/productListing" className="mt-6 inline-block text-lg underline">
+  View collection
+</Link>
+
           
           <p className="mt-12 text-lg">
             A new era in eco friendly furniture with Avelon, the French luxury

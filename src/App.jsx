@@ -27,13 +27,13 @@ const App = () => {
         <Section4Oybek />
         <Section5Oybek />
         <FooterOybek />
-        <ProductListing />
-
+        {/* <ProductListing /> */}
+{/* 
         <Cardd />
         <Card1 />
         <Card2 />
         <Card />
-        <Card3Abdurashid />
+        <Card3Abdurashid /> */}
       </div>
     </div>
   )

@@ -8,6 +8,7 @@ import App from "./App";
 import CollectionPage from "./pages/CollectionPage";
 import About from "./pages/About"
 import ProductListing from "./components/ProductListing";
+import Card3Abdurashid from "./pages/Card3Abdurashid";
 import "./index.css";
 
 const router = createBrowserRouter([
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path: "/productListing",
     element: <ProductListing />
+  },
+  {
+    path: "/card3",
+    element: <Card3Abdurashid />
   }
 ]);
 
