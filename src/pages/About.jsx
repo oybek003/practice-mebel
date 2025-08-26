@@ -10,7 +10,7 @@ import { FaRegCircleCheck, FaTruckFast } from "react-icons/fa6";
 import { CiCreditCard1 } from "react-icons/ci";
 import { PiPlantLight } from "react-icons/pi";
 import { FaFacebookF, FaInstagram, FaTwitter, FaPinterest, FaLinkedin, FaSkype } from "react-icons/fa";
-import footer from '../assets/footerabout.jpg'
+import footer from '../assets/footerAbout.jpg'
 const HeaderOybek = () => {
   const [open, setOpen] = useState(false);
 
