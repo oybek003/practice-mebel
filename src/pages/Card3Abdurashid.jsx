@@ -15,7 +15,9 @@ const Card3Abdurashid = () => {
         <nav className="flex items-center justify-between px-6 py-4">
           <IoMdSearch className="text-2xl cursor-pointer" />
 
-          <h1 className="text-[24px] font-bold">Avion</h1>
+          <Link to="/">
+                        <h1 className="text-[24px] font-bold">Avion</h1>
+          </Link>
 
           <div className="hidden md:flex items-center gap-6 text-2xl">
             <Link to="/" className="text-blue-600 hover:underline"><MdOutlineLocalGroceryStore className="text-black"/></Link>            

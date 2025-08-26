@@ -32,7 +32,10 @@ const HeaderOybek = () => {
             </ul>
 
             <IoMdSearch className="text-2xl cursor-pointer" />
-            <MdOutlineLocalGroceryStore className="cursor-pointer" />
+            <Link to="/card3">
+                        <MdOutlineLocalGroceryStore className="cursor-pointer" />
+
+            </Link>
             <CgProfile className="cursor-pointer" />
           </div>
 
